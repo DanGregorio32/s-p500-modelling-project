@@ -1,4 +1,4 @@
-# s-p500-modelling-project
+# s&p500-modelling-project
 S&P 500 Index Modelling and Growth Analysis Using Python
 
 This project analyses monthly S&P 500 closing prices from 2020 to 2024 using Python.
