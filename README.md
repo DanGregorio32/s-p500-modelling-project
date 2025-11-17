@@ -1,7 +1,10 @@
 # s-p500-modelling-project
 S&P 500 Index Modelling and Growth Analysis Using Python
+
 This project analyses monthly S&P 500 closing prices from 2020 to 2024 using Python.
+
 It was completed as part of my first year Finance and Data Analytics coursework (computational methods).
+
 The analysis focuses on:
 1. Modelling index behaviour
 Polynomial approximation and cubic spline interpolation were used to model the index for two windows
